@@ -11,7 +11,7 @@
   end
 =end end
 
-def find_element_index(array, value_to_find)
+def find_element_index(array, value_to_find) #<-- this is a shorter solution with .find_index
   # Add your solution here
   array.find_index(value_to_find)
 end
