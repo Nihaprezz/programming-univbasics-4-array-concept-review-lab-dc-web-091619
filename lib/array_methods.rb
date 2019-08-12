@@ -1,3 +1,4 @@
+#using the while loop before finding out about .find_index
 =begin def find_element_index(array, value_to_find)
   # Add your solution here
   counter = 0 
